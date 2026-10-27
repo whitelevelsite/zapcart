@@ -1,0 +1,1818 @@
+[
+ {
+  "id": 1,
+  "name": "Banana Robusta",
+  "category": "fruits-veg",
+  "brand": "FreshFarm",
+  "unit": "6 pcs",
+  "price": 45,
+  "mrp": 56,
+  "emoji": "🍌",
+  "bg": "#dcfce7",
+  "rating": 4.2,
+  "stock": 18,
+  "tags": [
+   "banana",
+   "robusta",
+   "fruits veg"
+  ],
+  "desc": "Banana Robusta from FreshFarm. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 2,
+  "name": "Shimla Apple",
+  "category": "fruits-veg",
+  "brand": "GreenLeaf",
+  "unit": "4 pcs",
+  "price": 119,
+  "mrp": 132,
+  "emoji": "🍎",
+  "bg": "#dcfce7",
+  "rating": 4.6,
+  "stock": 31,
+  "tags": [
+   "shimla",
+   "apple",
+   "fruits veg"
+  ],
+  "desc": "Shimla Apple from GreenLeaf. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 3,
+  "name": "Tomato Hybrid",
+  "category": "fruits-veg",
+  "brand": "Orchard",
+  "unit": "500 g",
+  "price": 29,
+  "mrp": 34,
+  "emoji": "🍅",
+  "bg": "#dcfce7",
+  "rating": 3.9,
+  "stock": 44,
+  "tags": [
+   "tomato",
+   "hybrid",
+   "fruits veg"
+  ],
+  "desc": "Tomato Hybrid from Orchard. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 4,
+  "name": "Onion",
+  "category": "fruits-veg",
+  "brand": "Co",
+  "unit": "1 kg",
+  "price": 42,
+  "mrp": 52,
+  "emoji": "🧅",
+  "bg": "#dcfce7",
+  "rating": 4.3,
+  "stock": 57,
+  "tags": [
+   "onion",
+   "fruits veg"
+  ],
+  "desc": "Onion from Co. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 5,
+  "name": "Potato",
+  "category": "fruits-veg",
+  "brand": "FreshFarm",
+  "unit": "1 kg",
+  "price": 36,
+  "mrp": 40,
+  "emoji": "🥔",
+  "bg": "#dcfce7",
+  "rating": 4.7,
+  "stock": 14,
+  "tags": [
+   "potato",
+   "fruits veg"
+  ],
+  "desc": "Potato from FreshFarm. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 6,
+  "name": "Carrot Orange",
+  "category": "fruits-veg",
+  "brand": "GreenLeaf",
+  "unit": "500 g",
+  "price": 38,
+  "mrp": 44,
+  "emoji": "🥕",
+  "bg": "#dcfce7",
+  "rating": 4.0,
+  "stock": 27,
+  "tags": [
+   "carrot",
+   "orange",
+   "fruits veg"
+  ],
+  "desc": "Carrot Orange from GreenLeaf. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 7,
+  "name": "Fresh Spinach",
+  "category": "fruits-veg",
+  "brand": "Orchard",
+  "unit": "250 g",
+  "price": 22,
+  "mrp": 28,
+  "emoji": "🥬",
+  "bg": "#dcfce7",
+  "rating": 4.4,
+  "stock": 40,
+  "tags": [
+   "fresh",
+   "spinach",
+   "fruits veg"
+  ],
+  "desc": "Fresh Spinach from Orchard. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 8,
+  "name": "Alphonso Mango",
+  "category": "fruits-veg",
+  "brand": "Co",
+  "unit": "2 pcs",
+  "price": 149,
+  "mrp": 166,
+  "emoji": "🥭",
+  "bg": "#dcfce7",
+  "rating": 4.8,
+  "stock": 53,
+  "tags": [
+   "alphonso",
+   "mango",
+   "fruits veg"
+  ],
+  "desc": "Alphonso Mango from Co. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 9,
+  "name": "Black Grapes",
+  "category": "fruits-veg",
+  "brand": "FreshFarm",
+  "unit": "500 g",
+  "price": 89,
+  "mrp": 103,
+  "emoji": "🍇",
+  "bg": "#dcfce7",
+  "rating": 4.1,
+  "stock": 10,
+  "tags": [
+   "black",
+   "grapes",
+   "fruits veg"
+  ],
+  "desc": "Black Grapes from FreshFarm. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 10,
+  "name": "Lemon",
+  "category": "fruits-veg",
+  "brand": "GreenLeaf",
+  "unit": "6 pcs",
+  "price": 24,
+  "mrp": 30,
+  "emoji": "🍋",
+  "bg": "#dcfce7",
+  "rating": 4.5,
+  "stock": 23,
+  "tags": [
+   "lemon",
+   "fruits veg"
+  ],
+  "desc": "Lemon from GreenLeaf. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 11,
+  "name": "Broccoli",
+  "category": "fruits-veg",
+  "brand": "Orchard",
+  "unit": "1 pc",
+  "price": 55,
+  "mrp": 61,
+  "emoji": "🥦",
+  "bg": "#dcfce7",
+  "rating": 3.8,
+  "stock": 36,
+  "tags": [
+   "broccoli",
+   "fruits veg"
+  ],
+  "desc": "Broccoli from Orchard. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 12,
+  "name": "Cucumber",
+  "category": "fruits-veg",
+  "brand": "Co",
+  "unit": "500 g",
+  "price": 30,
+  "mrp": 35,
+  "emoji": "🥒",
+  "bg": "#dcfce7",
+  "rating": 4.2,
+  "stock": 49,
+  "tags": [
+   "cucumber",
+   "fruits veg"
+  ],
+  "desc": "Cucumber from Co. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 13,
+  "name": "Toned Milk",
+  "category": "dairy",
+  "brand": "MooFresh",
+  "unit": "500 ml",
+  "price": 29,
+  "mrp": 36,
+  "emoji": "🥛",
+  "bg": "#e0f2fe",
+  "rating": 4.6,
+  "stock": 6,
+  "tags": [
+   "toned",
+   "milk",
+   "dairy"
+  ],
+  "desc": "Toned Milk from MooFresh. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 14,
+  "name": "Fresh Curd",
+  "category": "dairy",
+  "brand": "DailyGold",
+  "unit": "400 g",
+  "price": 45,
+  "mrp": 50,
+  "emoji": "🥣",
+  "bg": "#e0f2fe",
+  "rating": 3.9,
+  "stock": 19,
+  "tags": [
+   "fresh",
+   "curd",
+   "dairy"
+  ],
+  "desc": "Fresh Curd from DailyGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 15,
+  "name": "Paneer Block",
+  "category": "dairy",
+  "brand": "Baker's Basket",
+  "unit": "200 g",
+  "price": 95,
+  "mrp": 110,
+  "emoji": "🧀",
+  "bg": "#e0f2fe",
+  "rating": 4.3,
+  "stock": 32,
+  "tags": [
+   "paneer",
+   "block",
+   "dairy"
+  ],
+  "desc": "Paneer Block from Baker's Basket. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 16,
+  "name": "Salted Butter",
+  "category": "dairy",
+  "brand": "MooFresh",
+  "unit": "100 g",
+  "price": 58,
+  "mrp": 72,
+  "emoji": "🧈",
+  "bg": "#e0f2fe",
+  "rating": 4.7,
+  "stock": 45,
+  "tags": [
+   "salted",
+   "butter",
+   "dairy"
+  ],
+  "desc": "Salted Butter from MooFresh. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 17,
+  "name": "Farm Eggs",
+  "category": "dairy",
+  "brand": "DailyGold",
+  "unit": "6 pcs",
+  "price": 54,
+  "mrp": 60,
+  "emoji": "🥚",
+  "bg": "#e0f2fe",
+  "rating": 4.0,
+  "stock": 58,
+  "tags": [
+   "farm",
+   "eggs",
+   "dairy"
+  ],
+  "desc": "Farm Eggs from DailyGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 18,
+  "name": "Brown Bread",
+  "category": "dairy",
+  "brand": "Baker's Basket",
+  "unit": "400 g",
+  "price": 48,
+  "mrp": 56,
+  "emoji": "🍞",
+  "bg": "#e0f2fe",
+  "rating": 4.4,
+  "stock": 15,
+  "tags": [
+   "brown",
+   "bread",
+   "dairy"
+  ],
+  "desc": "Brown Bread from Baker's Basket. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 19,
+  "name": "Cheese Slices",
+  "category": "dairy",
+  "brand": "MooFresh",
+  "unit": "200 g",
+  "price": 125,
+  "mrp": 156,
+  "emoji": "🧀",
+  "bg": "#e0f2fe",
+  "rating": 4.8,
+  "stock": 28,
+  "tags": [
+   "cheese",
+   "slices",
+   "dairy"
+  ],
+  "desc": "Cheese Slices from MooFresh. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 20,
+  "name": "Butter Croissant",
+  "category": "dairy",
+  "brand": "DailyGold",
+  "unit": "2 pcs",
+  "price": 70,
+  "mrp": 78,
+  "emoji": "🥐",
+  "bg": "#e0f2fe",
+  "rating": 4.1,
+  "stock": 41,
+  "tags": [
+   "butter",
+   "croissant",
+   "dairy"
+  ],
+  "desc": "Butter Croissant from DailyGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 21,
+  "name": "Greek Yogurt",
+  "category": "dairy",
+  "brand": "Baker's Basket",
+  "unit": "100 g",
+  "price": 42,
+  "mrp": 49,
+  "emoji": "🍦",
+  "bg": "#e0f2fe",
+  "rating": 4.5,
+  "stock": 54,
+  "tags": [
+   "greek",
+   "yogurt",
+   "dairy"
+  ],
+  "desc": "Greek Yogurt from Baker's Basket. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 22,
+  "name": "Pure Ghee",
+  "category": "dairy",
+  "brand": "MooFresh",
+  "unit": "500 ml",
+  "price": 345,
+  "mrp": 431,
+  "emoji": "🫙",
+  "bg": "#e0f2fe",
+  "rating": 3.8,
+  "stock": 11,
+  "tags": [
+   "pure",
+   "ghee",
+   "dairy"
+  ],
+  "desc": "Pure Ghee from MooFresh. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 23,
+  "name": "Classic Salted Chips",
+  "category": "snacks",
+  "brand": "CrunchCo",
+  "unit": "90 g",
+  "price": 30,
+  "mrp": 35,
+  "emoji": "🍟",
+  "bg": "#fef3c7",
+  "rating": 4.2,
+  "stock": 24,
+  "tags": [
+   "classic",
+   "salted",
+   "chips",
+   "snacks"
+  ],
+  "desc": "Classic Salted Chips from CrunchCo. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 24,
+  "name": "Butter Popcorn",
+  "category": "snacks",
+  "brand": "SnackShack",
+  "unit": "120 g",
+  "price": 50,
+  "mrp": 53,
+  "emoji": "🍿",
+  "bg": "#fef3c7",
+  "rating": 4.6,
+  "stock": 37,
+  "tags": [
+   "butter",
+   "popcorn",
+   "snacks"
+  ],
+  "desc": "Butter Popcorn from SnackShack. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 25,
+  "name": "Choco Chip Cookies",
+  "category": "snacks",
+  "brand": "Nutty Bites",
+  "unit": "150 g",
+  "price": 40,
+  "mrp": 40,
+  "emoji": "🍪",
+  "bg": "#fef3c7",
+  "rating": 3.9,
+  "stock": 50,
+  "tags": [
+   "choco",
+   "chip",
+   "cookies",
+   "snacks"
+  ],
+  "desc": "Choco Chip Cookies from Nutty Bites. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 26,
+  "name": "Milk Chocolate Bar",
+  "category": "snacks",
+  "brand": "CrunchCo",
+  "unit": "55 g",
+  "price": 60,
+  "mrp": 71,
+  "emoji": "🍫",
+  "bg": "#fef3c7",
+  "rating": 4.3,
+  "stock": 7,
+  "tags": [
+   "milk",
+   "chocolate",
+   "bar",
+   "snacks"
+  ],
+  "desc": "Milk Chocolate Bar from CrunchCo. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 27,
+  "name": "Namkeen Mix",
+  "category": "snacks",
+  "brand": "SnackShack",
+  "unit": "200 g",
+  "price": 65,
+  "mrp": 68,
+  "emoji": "🥜",
+  "bg": "#fef3c7",
+  "rating": 4.7,
+  "stock": 20,
+  "tags": [
+   "namkeen",
+   "mix",
+   "snacks"
+  ],
+  "desc": "Namkeen Mix from SnackShack. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 28,
+  "name": "Cheese Nachos",
+  "category": "snacks",
+  "brand": "Nutty Bites",
+  "unit": "150 g",
+  "price": 75,
+  "mrp": 75,
+  "emoji": "🌮",
+  "bg": "#fef3c7",
+  "rating": 4.0,
+  "stock": 33,
+  "tags": [
+   "cheese",
+   "nachos",
+   "snacks"
+  ],
+  "desc": "Cheese Nachos from Nutty Bites. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 29,
+  "name": "Masala Instant Noodles",
+  "category": "snacks",
+  "brand": "CrunchCo",
+  "unit": "4 pack",
+  "price": 58,
+  "mrp": 68,
+  "emoji": "🍜",
+  "bg": "#fef3c7",
+  "rating": 4.4,
+  "stock": 46,
+  "tags": [
+   "masala",
+   "instant",
+   "noodles",
+   "snacks"
+  ],
+  "desc": "Masala Instant Noodles from CrunchCo. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 30,
+  "name": "Glazed Donut",
+  "category": "snacks",
+  "brand": "SnackShack",
+  "unit": "1 pc",
+  "price": 45,
+  "mrp": 47,
+  "emoji": "🍩",
+  "bg": "#fef3c7",
+  "rating": 4.8,
+  "stock": 59,
+  "tags": [
+   "glazed",
+   "donut",
+   "snacks"
+  ],
+  "desc": "Glazed Donut from SnackShack. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 31,
+  "name": "Roasted Peanuts",
+  "category": "snacks",
+  "brand": "Nutty Bites",
+  "unit": "200 g",
+  "price": 48,
+  "mrp": 48,
+  "emoji": "🥜",
+  "bg": "#fef3c7",
+  "rating": 4.1,
+  "stock": 16,
+  "tags": [
+   "roasted",
+   "peanuts",
+   "snacks"
+  ],
+  "desc": "Roasted Peanuts from Nutty Bites. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 32,
+  "name": "Oats Granola Bar",
+  "category": "snacks",
+  "brand": "CrunchCo",
+  "unit": "6 pcs",
+  "price": 120,
+  "mrp": 141,
+  "emoji": "🌰",
+  "bg": "#fef3c7",
+  "rating": 4.5,
+  "stock": 29,
+  "tags": [
+   "oats",
+   "granola",
+   "bar",
+   "snacks"
+  ],
+  "desc": "Oats Granola Bar from CrunchCo. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 33,
+  "name": "Salted Pretzels",
+  "category": "snacks",
+  "brand": "SnackShack",
+  "unit": "100 g",
+  "price": 55,
+  "mrp": 58,
+  "emoji": "🥨",
+  "bg": "#fef3c7",
+  "rating": 3.8,
+  "stock": 42,
+  "tags": [
+   "salted",
+   "pretzels",
+   "snacks"
+  ],
+  "desc": "Salted Pretzels from SnackShack. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 34,
+  "name": "Orange Juice",
+  "category": "beverages",
+  "brand": "SipWell",
+  "unit": "1 L",
+  "price": 110,
+  "mrp": 117,
+  "emoji": "🍊",
+  "bg": "#ffedd5",
+  "rating": 4.2,
+  "stock": 55,
+  "tags": [
+   "orange",
+   "juice",
+   "beverages"
+  ],
+  "desc": "Orange Juice from SipWell. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 35,
+  "name": "Cola",
+  "category": "beverages",
+  "brand": "Juicy Joy",
+  "unit": "750 ml",
+  "price": 40,
+  "mrp": 49,
+  "emoji": "🥤",
+  "bg": "#ffedd5",
+  "rating": 4.6,
+  "stock": 12,
+  "tags": [
+   "cola",
+   "beverages"
+  ],
+  "desc": "Cola from Juicy Joy. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 36,
+  "name": "Green Tea Bags",
+  "category": "beverages",
+  "brand": "BrewHouse",
+  "unit": "25 bags",
+  "price": 135,
+  "mrp": 147,
+  "emoji": "🍵",
+  "bg": "#ffedd5",
+  "rating": 3.9,
+  "stock": 25,
+  "tags": [
+   "green",
+   "tea",
+   "bags",
+   "beverages"
+  ],
+  "desc": "Green Tea Bags from BrewHouse. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 37,
+  "name": "Instant Coffee",
+  "category": "beverages",
+  "brand": "SipWell",
+  "unit": "100 g",
+  "price": 295,
+  "mrp": 314,
+  "emoji": "☕",
+  "bg": "#ffedd5",
+  "rating": 4.3,
+  "stock": 38,
+  "tags": [
+   "instant",
+   "coffee",
+   "beverages"
+  ],
+  "desc": "Instant Coffee from SipWell. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 38,
+  "name": "Tender Coconut Water",
+  "category": "beverages",
+  "brand": "Juicy Joy",
+  "unit": "200 ml",
+  "price": 40,
+  "mrp": 49,
+  "emoji": "🥥",
+  "bg": "#ffedd5",
+  "rating": 4.7,
+  "stock": 51,
+  "tags": [
+   "tender",
+   "coconut",
+   "water",
+   "beverages"
+  ],
+  "desc": "Tender Coconut Water from Juicy Joy. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 39,
+  "name": "Energy Drink",
+  "category": "beverages",
+  "brand": "BrewHouse",
+  "unit": "250 ml",
+  "price": 110,
+  "mrp": 120,
+  "emoji": "⚡",
+  "bg": "#ffedd5",
+  "rating": 4.0,
+  "stock": 8,
+  "tags": [
+   "energy",
+   "drink",
+   "beverages"
+  ],
+  "desc": "Energy Drink from BrewHouse. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 40,
+  "name": "Mineral Water",
+  "category": "beverages",
+  "brand": "SipWell",
+  "unit": "1 L",
+  "price": 20,
+  "mrp": 21,
+  "emoji": "💧",
+  "bg": "#ffedd5",
+  "rating": 4.4,
+  "stock": 21,
+  "tags": [
+   "mineral",
+   "water",
+   "beverages"
+  ],
+  "desc": "Mineral Water from SipWell. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 41,
+  "name": "Lemon Soda",
+  "category": "beverages",
+  "brand": "Juicy Joy",
+  "unit": "600 ml",
+  "price": 30,
+  "mrp": 37,
+  "emoji": "🍋",
+  "bg": "#ffedd5",
+  "rating": 4.8,
+  "stock": 34,
+  "tags": [
+   "lemon",
+   "soda",
+   "beverages"
+  ],
+  "desc": "Lemon Soda from Juicy Joy. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 42,
+  "name": "Mango Drink",
+  "category": "beverages",
+  "brand": "BrewHouse",
+  "unit": "1 L",
+  "price": 85,
+  "mrp": 92,
+  "emoji": "🥭",
+  "bg": "#ffedd5",
+  "rating": 4.1,
+  "stock": 47,
+  "tags": [
+   "mango",
+   "drink",
+   "beverages"
+  ],
+  "desc": "Mango Drink from BrewHouse. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 43,
+  "name": "Chocolate Milkshake",
+  "category": "beverages",
+  "brand": "SipWell",
+  "unit": "200 ml",
+  "price": 50,
+  "mrp": 53,
+  "emoji": "🥛",
+  "bg": "#ffedd5",
+  "rating": 4.5,
+  "stock": 60,
+  "tags": [
+   "chocolate",
+   "milkshake",
+   "beverages"
+  ],
+  "desc": "Chocolate Milkshake from SipWell. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 44,
+  "name": "Whole Wheat Atta",
+  "category": "staples",
+  "brand": "GrainGold",
+  "unit": "5 kg",
+  "price": 249,
+  "mrp": 332,
+  "emoji": "🌾",
+  "bg": "#fef9c3",
+  "rating": 3.8,
+  "stock": 17,
+  "tags": [
+   "whole",
+   "wheat",
+   "atta",
+   "staples"
+  ],
+  "desc": "Whole Wheat Atta from GrainGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 45,
+  "name": "Basmati Rice",
+  "category": "staples",
+  "brand": "Annapurna Farms",
+  "unit": "1 kg",
+  "price": 129,
+  "mrp": 147,
+  "emoji": "🍚",
+  "bg": "#fef9c3",
+  "rating": 4.2,
+  "stock": 30,
+  "tags": [
+   "basmati",
+   "rice",
+   "staples"
+  ],
+  "desc": "Basmati Rice from Annapurna Farms. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 46,
+  "name": "Toor Dal",
+  "category": "staples",
+  "brand": "PureHarvest",
+  "unit": "1 kg",
+  "price": 159,
+  "mrp": 159,
+  "emoji": "🫘",
+  "bg": "#fef9c3",
+  "rating": 4.6,
+  "stock": 43,
+  "tags": [
+   "toor",
+   "dal",
+   "staples"
+  ],
+  "desc": "Toor Dal from PureHarvest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 47,
+  "name": "Sugar",
+  "category": "staples",
+  "brand": "GrainGold",
+  "unit": "1 kg",
+  "price": 52,
+  "mrp": 69,
+  "emoji": "🍬",
+  "bg": "#fef9c3",
+  "rating": 3.9,
+  "stock": 56,
+  "tags": [
+   "sugar",
+   "staples"
+  ],
+  "desc": "Sugar from GrainGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 48,
+  "name": "Iodised Salt",
+  "category": "staples",
+  "brand": "Annapurna Farms",
+  "unit": "1 kg",
+  "price": 22,
+  "mrp": 25,
+  "emoji": "🧂",
+  "bg": "#fef9c3",
+  "rating": 4.3,
+  "stock": 13,
+  "tags": [
+   "iodised",
+   "salt",
+   "staples"
+  ],
+  "desc": "Iodised Salt from Annapurna Farms. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 49,
+  "name": "Sunflower Oil",
+  "category": "staples",
+  "brand": "PureHarvest",
+  "unit": "1 L",
+  "price": 139,
+  "mrp": 139,
+  "emoji": "🛢️",
+  "bg": "#fef9c3",
+  "rating": 4.7,
+  "stock": 26,
+  "tags": [
+   "sunflower",
+   "oil",
+   "staples"
+  ],
+  "desc": "Sunflower Oil from PureHarvest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 50,
+  "name": "Turmeric Powder",
+  "category": "staples",
+  "brand": "GrainGold",
+  "unit": "100 g",
+  "price": 38,
+  "mrp": 51,
+  "emoji": "🟡",
+  "bg": "#fef9c3",
+  "rating": 4.0,
+  "stock": 39,
+  "tags": [
+   "turmeric",
+   "powder",
+   "staples"
+  ],
+  "desc": "Turmeric Powder from GrainGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 51,
+  "name": "Poha Thick",
+  "category": "staples",
+  "brand": "Annapurna Farms",
+  "unit": "500 g",
+  "price": 52,
+  "mrp": 59,
+  "emoji": "🍚",
+  "bg": "#fef9c3",
+  "rating": 4.4,
+  "stock": 52,
+  "tags": [
+   "poha",
+   "thick",
+   "staples"
+  ],
+  "desc": "Poha Thick from Annapurna Farms. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 52,
+  "name": "Rajma Chitra",
+  "category": "staples",
+  "brand": "PureHarvest",
+  "unit": "500 g",
+  "price": 98,
+  "mrp": 98,
+  "emoji": "🫘",
+  "bg": "#fef9c3",
+  "rating": 4.8,
+  "stock": 9,
+  "tags": [
+   "rajma",
+   "chitra",
+   "staples"
+  ],
+  "desc": "Rajma Chitra from PureHarvest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 53,
+  "name": "Kabuli Chana",
+  "category": "staples",
+  "brand": "GrainGold",
+  "unit": "500 g",
+  "price": 85,
+  "mrp": 113,
+  "emoji": "🫘",
+  "bg": "#fef9c3",
+  "rating": 4.1,
+  "stock": 22,
+  "tags": [
+   "kabuli",
+   "chana",
+   "staples"
+  ],
+  "desc": "Kabuli Chana from GrainGold. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 54,
+  "name": "Besan",
+  "category": "staples",
+  "brand": "Annapurna Farms",
+  "unit": "500 g",
+  "price": 68,
+  "mrp": 77,
+  "emoji": "🌾",
+  "bg": "#fef9c3",
+  "rating": 4.5,
+  "stock": 35,
+  "tags": [
+   "besan",
+   "staples"
+  ],
+  "desc": "Besan from Annapurna Farms. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 55,
+  "name": "Mustard Oil",
+  "category": "staples",
+  "brand": "PureHarvest",
+  "unit": "1 L",
+  "price": 169,
+  "mrp": 169,
+  "emoji": "🛢️",
+  "bg": "#fef9c3",
+  "rating": 3.8,
+  "stock": 48,
+  "tags": [
+   "mustard",
+   "oil",
+   "staples"
+  ],
+  "desc": "Mustard Oil from PureHarvest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 56,
+  "name": "Herbal Shampoo",
+  "category": "personal-care",
+  "brand": "GlowUp",
+  "unit": "340 ml",
+  "price": 249,
+  "mrp": 332,
+  "emoji": "🧴",
+  "bg": "#fce7f3",
+  "rating": 4.2,
+  "stock": 5,
+  "tags": [
+   "herbal",
+   "shampoo",
+   "personal care"
+  ],
+  "desc": "Herbal Shampoo from GlowUp. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 57,
+  "name": "Mint Toothpaste",
+  "category": "personal-care",
+  "brand": "PureSkin",
+  "unit": "150 g",
+  "price": 89,
+  "mrp": 101,
+  "emoji": "🪥",
+  "bg": "#fce7f3",
+  "rating": 4.6,
+  "stock": 18,
+  "tags": [
+   "mint",
+   "toothpaste",
+   "personal care"
+  ],
+  "desc": "Mint Toothpaste from PureSkin. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 58,
+  "name": "Sandal Soap",
+  "category": "personal-care",
+  "brand": "FreshEdge",
+  "unit": "3 x 100 g",
+  "price": 125,
+  "mrp": 125,
+  "emoji": "🧼",
+  "bg": "#fce7f3",
+  "rating": 3.9,
+  "stock": 31,
+  "tags": [
+   "sandal",
+   "soap",
+   "personal care"
+  ],
+  "desc": "Sandal Soap from FreshEdge. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 59,
+  "name": "Neem Face Wash",
+  "category": "personal-care",
+  "brand": "GlowUp",
+  "unit": "100 ml",
+  "price": 165,
+  "mrp": 220,
+  "emoji": "🫧",
+  "bg": "#fce7f3",
+  "rating": 4.3,
+  "stock": 44,
+  "tags": [
+   "neem",
+   "face",
+   "wash",
+   "personal care"
+  ],
+  "desc": "Neem Face Wash from GlowUp. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 60,
+  "name": "Body Lotion",
+  "category": "personal-care",
+  "brand": "PureSkin",
+  "unit": "400 ml",
+  "price": 299,
+  "mrp": 340,
+  "emoji": "🧴",
+  "bg": "#fce7f3",
+  "rating": 4.7,
+  "stock": 57,
+  "tags": [
+   "body",
+   "lotion",
+   "personal care"
+  ],
+  "desc": "Body Lotion from PureSkin. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 61,
+  "name": "Roll-on Deodorant",
+  "category": "personal-care",
+  "brand": "FreshEdge",
+  "unit": "50 ml",
+  "price": 145,
+  "mrp": 145,
+  "emoji": "💨",
+  "bg": "#fce7f3",
+  "rating": 4.0,
+  "stock": 14,
+  "tags": [
+   "roll-on",
+   "deodorant",
+   "personal care"
+  ],
+  "desc": "Roll-on Deodorant from FreshEdge. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 62,
+  "name": "Razor Pack",
+  "category": "personal-care",
+  "brand": "GlowUp",
+  "unit": "3 pcs",
+  "price": 99,
+  "mrp": 132,
+  "emoji": "🪒",
+  "bg": "#fce7f3",
+  "rating": 4.4,
+  "stock": 27,
+  "tags": [
+   "razor",
+   "pack",
+   "personal care"
+  ],
+  "desc": "Razor Pack from GlowUp. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 63,
+  "name": "SPF 50 Sunscreen",
+  "category": "personal-care",
+  "brand": "PureSkin",
+  "unit": "50 g",
+  "price": 349,
+  "mrp": 397,
+  "emoji": "☀️",
+  "bg": "#fce7f3",
+  "rating": 4.8,
+  "stock": 40,
+  "tags": [
+   "spf",
+   "50",
+   "sunscreen",
+   "personal care"
+  ],
+  "desc": "SPF 50 Sunscreen from PureSkin. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 64,
+  "name": "Hand Wash Refill",
+  "category": "personal-care",
+  "brand": "FreshEdge",
+  "unit": "750 ml",
+  "price": 110,
+  "mrp": 110,
+  "emoji": "🧼",
+  "bg": "#fce7f3",
+  "rating": 4.1,
+  "stock": 53,
+  "tags": [
+   "hand",
+   "wash",
+   "refill",
+   "personal care"
+  ],
+  "desc": "Hand Wash Refill from FreshEdge. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 65,
+  "name": "Lip Balm",
+  "category": "personal-care",
+  "brand": "GlowUp",
+  "unit": "4.5 g",
+  "price": 85,
+  "mrp": 113,
+  "emoji": "💄",
+  "bg": "#fce7f3",
+  "rating": 4.5,
+  "stock": 10,
+  "tags": [
+   "lip",
+   "balm",
+   "personal care"
+  ],
+  "desc": "Lip Balm from GlowUp. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 66,
+  "name": "Dishwash Liquid",
+  "category": "cleaning",
+  "brand": "SparkleHome",
+  "unit": "500 ml",
+  "price": 110,
+  "mrp": 134,
+  "emoji": "🧽",
+  "bg": "#ccfbf1",
+  "rating": 3.8,
+  "stock": 23,
+  "tags": [
+   "dishwash",
+   "liquid",
+   "cleaning"
+  ],
+  "desc": "Dishwash Liquid from SparkleHome. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 67,
+  "name": "Floor Cleaner",
+  "category": "cleaning",
+  "brand": "CleanNest",
+  "unit": "1 L",
+  "price": 189,
+  "mrp": 205,
+  "emoji": "🧹",
+  "bg": "#ccfbf1",
+  "rating": 4.2,
+  "stock": 36,
+  "tags": [
+   "floor",
+   "cleaner",
+   "cleaning"
+  ],
+  "desc": "Floor Cleaner from CleanNest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 68,
+  "name": "Detergent Powder",
+  "category": "cleaning",
+  "brand": "Tidy Co",
+  "unit": "2 kg",
+  "price": 260,
+  "mrp": 277,
+  "emoji": "🧺",
+  "bg": "#ccfbf1",
+  "rating": 4.6,
+  "stock": 49,
+  "tags": [
+   "detergent",
+   "powder",
+   "cleaning"
+  ],
+  "desc": "Detergent Powder from Tidy Co. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 69,
+  "name": "Toilet Cleaner",
+  "category": "cleaning",
+  "brand": "SparkleHome",
+  "unit": "500 ml",
+  "price": 95,
+  "mrp": 116,
+  "emoji": "🚽",
+  "bg": "#ccfbf1",
+  "rating": 3.9,
+  "stock": 6,
+  "tags": [
+   "toilet",
+   "cleaner",
+   "cleaning"
+  ],
+  "desc": "Toilet Cleaner from SparkleHome. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 70,
+  "name": "Garbage Bags",
+  "category": "cleaning",
+  "brand": "CleanNest",
+  "unit": "30 pcs",
+  "price": 90,
+  "mrp": 98,
+  "emoji": "🗑️",
+  "bg": "#ccfbf1",
+  "rating": 4.3,
+  "stock": 19,
+  "tags": [
+   "garbage",
+   "bags",
+   "cleaning"
+  ],
+  "desc": "Garbage Bags from CleanNest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 71,
+  "name": "Tissue Rolls",
+  "category": "cleaning",
+  "brand": "Tidy Co",
+  "unit": "4 pcs",
+  "price": 140,
+  "mrp": 149,
+  "emoji": "🧻",
+  "bg": "#ccfbf1",
+  "rating": 4.7,
+  "stock": 32,
+  "tags": [
+   "tissue",
+   "rolls",
+   "cleaning"
+  ],
+  "desc": "Tissue Rolls from Tidy Co. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 72,
+  "name": "Glass Cleaner",
+  "category": "cleaning",
+  "brand": "SparkleHome",
+  "unit": "500 ml",
+  "price": 125,
+  "mrp": 152,
+  "emoji": "🪟",
+  "bg": "#ccfbf1",
+  "rating": 4.0,
+  "stock": 45,
+  "tags": [
+   "glass",
+   "cleaner",
+   "cleaning"
+  ],
+  "desc": "Glass Cleaner from SparkleHome. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 73,
+  "name": "Scrub Pads",
+  "category": "cleaning",
+  "brand": "CleanNest",
+  "unit": "3 pcs",
+  "price": 45,
+  "mrp": 49,
+  "emoji": "🧽",
+  "bg": "#ccfbf1",
+  "rating": 4.4,
+  "stock": 58,
+  "tags": [
+   "scrub",
+   "pads",
+   "cleaning"
+  ],
+  "desc": "Scrub Pads from CleanNest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 74,
+  "name": "Room Freshener",
+  "category": "cleaning",
+  "brand": "Tidy Co",
+  "unit": "220 ml",
+  "price": 199,
+  "mrp": 212,
+  "emoji": "🌸",
+  "bg": "#ccfbf1",
+  "rating": 4.8,
+  "stock": 15,
+  "tags": [
+   "room",
+   "freshener",
+   "cleaning"
+  ],
+  "desc": "Room Freshener from Tidy Co. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 75,
+  "name": "Fabric Softener",
+  "category": "cleaning",
+  "brand": "SparkleHome",
+  "unit": "860 ml",
+  "price": 215,
+  "mrp": 262,
+  "emoji": "🧴",
+  "bg": "#ccfbf1",
+  "rating": 4.1,
+  "stock": 28,
+  "tags": [
+   "fabric",
+   "softener",
+   "cleaning"
+  ],
+  "desc": "Fabric Softener from SparkleHome. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 76,
+  "name": "Baby Diapers M",
+  "category": "baby",
+  "brand": "TinyTots",
+  "unit": "58 pcs",
+  "price": 799,
+  "mrp": 908,
+  "emoji": "👶",
+  "bg": "#ede9fe",
+  "rating": 4.5,
+  "stock": 41,
+  "tags": [
+   "baby",
+   "diapers",
+   "m",
+   "baby"
+  ],
+  "desc": "Baby Diapers M from TinyTots. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 77,
+  "name": "Baby Wipes",
+  "category": "baby",
+  "brand": "LittleNest",
+  "unit": "72 pcs",
+  "price": 179,
+  "mrp": 179,
+  "emoji": "🧻",
+  "bg": "#ede9fe",
+  "rating": 3.8,
+  "stock": 54,
+  "tags": [
+   "baby",
+   "wipes",
+   "baby"
+  ],
+  "desc": "Baby Wipes from LittleNest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 78,
+  "name": "Baby Lotion",
+  "category": "baby",
+  "brand": "BabyBloom",
+  "unit": "200 ml",
+  "price": 199,
+  "mrp": 265,
+  "emoji": "🧴",
+  "bg": "#ede9fe",
+  "rating": 4.2,
+  "stock": 11,
+  "tags": [
+   "baby",
+   "lotion",
+   "baby"
+  ],
+  "desc": "Baby Lotion from BabyBloom. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 79,
+  "name": "Baby Cereal",
+  "category": "baby",
+  "brand": "TinyTots",
+  "unit": "300 g",
+  "price": 245,
+  "mrp": 278,
+  "emoji": "🍼",
+  "bg": "#ede9fe",
+  "rating": 4.6,
+  "stock": 24,
+  "tags": [
+   "baby",
+   "cereal",
+   "baby"
+  ],
+  "desc": "Baby Cereal from TinyTots. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 80,
+  "name": "Baby Shampoo",
+  "category": "baby",
+  "brand": "LittleNest",
+  "unit": "200 ml",
+  "price": 185,
+  "mrp": 185,
+  "emoji": "🛁",
+  "bg": "#ede9fe",
+  "rating": 3.9,
+  "stock": 37,
+  "tags": [
+   "baby",
+   "shampoo",
+   "baby"
+  ],
+  "desc": "Baby Shampoo from LittleNest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 81,
+  "name": "Feeding Bottle",
+  "category": "baby",
+  "brand": "BabyBloom",
+  "unit": "250 ml",
+  "price": 299,
+  "mrp": 399,
+  "emoji": "🍼",
+  "bg": "#ede9fe",
+  "rating": 4.3,
+  "stock": 50,
+  "tags": [
+   "feeding",
+   "bottle",
+   "baby"
+  ],
+  "desc": "Feeding Bottle from BabyBloom. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 82,
+  "name": "Baby Powder",
+  "category": "baby",
+  "brand": "TinyTots",
+  "unit": "200 g",
+  "price": 145,
+  "mrp": 165,
+  "emoji": "🧂",
+  "bg": "#ede9fe",
+  "rating": 4.7,
+  "stock": 7,
+  "tags": [
+   "baby",
+   "powder",
+   "baby"
+  ],
+  "desc": "Baby Powder from TinyTots. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 83,
+  "name": "Baby Soap",
+  "category": "baby",
+  "brand": "LittleNest",
+  "unit": "2 x 75 g",
+  "price": 110,
+  "mrp": 110,
+  "emoji": "🧼",
+  "bg": "#ede9fe",
+  "rating": 4.0,
+  "stock": 20,
+  "tags": [
+   "baby",
+   "soap",
+   "baby"
+  ],
+  "desc": "Baby Soap from LittleNest. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 84,
+  "name": "Diaper Rash Cream",
+  "category": "baby",
+  "brand": "BabyBloom",
+  "unit": "50 g",
+  "price": 135,
+  "mrp": 180,
+  "emoji": "🧴",
+  "bg": "#ede9fe",
+  "rating": 4.4,
+  "stock": 33,
+  "tags": [
+   "diaper",
+   "rash",
+   "cream",
+   "baby"
+  ],
+  "desc": "Diaper Rash Cream from BabyBloom. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 85,
+  "name": "Silicone Teether",
+  "category": "baby",
+  "brand": "TinyTots",
+  "unit": "1 pc",
+  "price": 199,
+  "mrp": 226,
+  "emoji": "🧸",
+  "bg": "#ede9fe",
+  "rating": 4.8,
+  "stock": 46,
+  "tags": [
+   "silicone",
+   "teether",
+   "baby"
+  ],
+  "desc": "Silicone Teether from TinyTots. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 86,
+  "name": "Adult Dog Food",
+  "category": "pet",
+  "brand": "PawPals",
+  "unit": "3 kg",
+  "price": 699,
+  "mrp": 760,
+  "emoji": "🐕",
+  "bg": "#fee2e2",
+  "rating": 4.1,
+  "stock": 59,
+  "tags": [
+   "adult",
+   "dog",
+   "food",
+   "pet"
+  ],
+  "desc": "Adult Dog Food from PawPals. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 87,
+  "name": "Cat Food Tuna",
+  "category": "pet",
+  "brand": "WhiskerWorld",
+  "unit": "1.2 kg",
+  "price": 450,
+  "mrp": 479,
+  "emoji": "🐈",
+  "bg": "#fee2e2",
+  "rating": 4.5,
+  "stock": 16,
+  "tags": [
+   "cat",
+   "food",
+   "tuna",
+   "pet"
+  ],
+  "desc": "Cat Food Tuna from WhiskerWorld. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 88,
+  "name": "Dog Chew Treats",
+  "category": "pet",
+  "brand": "TailWag",
+  "unit": "10 pcs",
+  "price": 249,
+  "mrp": 304,
+  "emoji": "🦴",
+  "bg": "#fee2e2",
+  "rating": 3.8,
+  "stock": 29,
+  "tags": [
+   "dog",
+   "chew",
+   "treats",
+   "pet"
+  ],
+  "desc": "Dog Chew Treats from TailWag. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 89,
+  "name": "Cat Litter",
+  "category": "pet",
+  "brand": "PawPals",
+  "unit": "5 kg",
+  "price": 399,
+  "mrp": 434,
+  "emoji": "🐱",
+  "bg": "#fee2e2",
+  "rating": 4.2,
+  "stock": 42,
+  "tags": [
+   "cat",
+   "litter",
+   "pet"
+  ],
+  "desc": "Cat Litter from PawPals. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 90,
+  "name": "Pet Shampoo",
+  "category": "pet",
+  "brand": "WhiskerWorld",
+  "unit": "200 ml",
+  "price": 229,
+  "mrp": 244,
+  "emoji": "🛁",
+  "bg": "#fee2e2",
+  "rating": 4.6,
+  "stock": 55,
+  "tags": [
+   "pet",
+   "shampoo",
+   "pet"
+  ],
+  "desc": "Pet Shampoo from WhiskerWorld. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 91,
+  "name": "Chew Toy Ball",
+  "category": "pet",
+  "brand": "TailWag",
+  "unit": "1 pc",
+  "price": 149,
+  "mrp": 182,
+  "emoji": "🎾",
+  "bg": "#fee2e2",
+  "rating": 3.9,
+  "stock": 12,
+  "tags": [
+   "chew",
+   "toy",
+   "ball",
+   "pet"
+  ],
+  "desc": "Chew Toy Ball from TailWag. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 92,
+  "name": "Fish Food",
+  "category": "pet",
+  "brand": "PawPals",
+  "unit": "100 g",
+  "price": 85,
+  "mrp": 92,
+  "emoji": "🐟",
+  "bg": "#fee2e2",
+  "rating": 4.3,
+  "stock": 25,
+  "tags": [
+   "fish",
+   "food",
+   "pet"
+  ],
+  "desc": "Fish Food from PawPals. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 93,
+  "name": "Bird Seed Mix",
+  "category": "pet",
+  "brand": "WhiskerWorld",
+  "unit": "500 g",
+  "price": 120,
+  "mrp": 128,
+  "emoji": "🐦",
+  "bg": "#fee2e2",
+  "rating": 4.7,
+  "stock": 38,
+  "tags": [
+   "bird",
+   "seed",
+   "mix",
+   "pet"
+  ],
+  "desc": "Bird Seed Mix from WhiskerWorld. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 94,
+  "name": "Steel Pet Bowl",
+  "category": "pet",
+  "brand": "TailWag",
+  "unit": "1 pc",
+  "price": 199,
+  "mrp": 243,
+  "emoji": "🥣",
+  "bg": "#fee2e2",
+  "rating": 4.0,
+  "stock": 51,
+  "tags": [
+   "steel",
+   "pet",
+   "bowl",
+   "pet"
+  ],
+  "desc": "Steel Pet Bowl from TailWag. Quality checked and packed fresh, delivered in minutes."
+ },
+ {
+  "id": 95,
+  "name": "Adjustable Leash",
+  "category": "pet",
+  "brand": "PawPals",
+  "unit": "1 pc",
+  "price": 325,
+  "mrp": 353,
+  "emoji": "🦮",
+  "bg": "#fee2e2",
+  "rating": 4.4,
+  "stock": 8,
+  "tags": [
+   "adjustable",
+   "leash",
+   "pet"
+  ],
+  "desc": "Adjustable Leash from PawPals. Quality checked and packed fresh, delivered in minutes."
+ }
+]

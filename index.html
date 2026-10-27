@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Zapcart – Groceries delivered in 10 minutes</title>
+<meta name="description" content="Zapcart is a demo quick-commerce grocery store: fruits, dairy, snacks, essentials and more, delivered in minutes.">
+<meta name="theme-color" content="#ffc800">
+<meta property="og:title" content="Zapcart – Groceries in 10 minutes">
+<meta property="og:description" content="Demo quick-commerce grocery website. Fresh groceries, snacks and essentials at your door in minutes.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#view">Skip to content</a>
+
+<header class="hdr">
+  <div class="hdr-row">
+    <a class="logo" href="#/" aria-label="Zapcart home"><span class="bolt">⚡</span><span>zapcart</span></a>
+    <button class="loc" id="locBtn" aria-label="Choose delivery location">
+      <b>Delivery in 10 mins</b>
+      <span id="locTxt">Select location ▾</span>
+    </button>
+    <form class="search" id="searchForm" role="search" autocomplete="off">
+      <span aria-hidden="true">🔍</span>
+      <input id="q" type="search" placeholder='Search "milk", "chips", "atta"…' aria-label="Search products" aria-autocomplete="list" aria-controls="sugg">
+      <ul id="sugg" class="sugg" role="listbox" hidden></ul>
+    </form>
+    <div class="acts">
+      <button class="ibtn" id="themeBtn" aria-label="Toggle dark mode">🌙</button>
+      <button class="ibtn txt" id="userBtn">Login</button>
+      <button class="cartbtn" id="cartBtn" aria-label="Open cart">🛒 <span id="cartLbl">My Cart</span><b id="cartCount" class="cnt">0</b></button>
+    </div>
+  </div>
+</header>
+
+<main id="view" tabindex="-1"></main>
+
+<footer class="ftr">
+  <div class="ftr-grid">
+    <div>
+      <div class="logo"><span class="bolt">⚡</span><span>zapcart</span></div>
+      <p class="muted">A demo quick-commerce storefront. Not a real store. Orders and payments are simulated, nothing is charged or delivered.</p>
+      <div class="badges"><span class="badge">▶ Google Play (placeholder)</span><span class="badge"> App Store (placeholder)</span></div>
+    </div>
+    <div><h4>Categories</h4><ul id="ftrCats"></ul></div>
+    <div><h4>Help</h4><ul><li><a href="#/orders">My orders</a></li><li><a href="#/wishlist">Wishlist</a></li><li><a href="#faq">FAQ</a></li></ul></div>
+    <div id="faq"><h4>FAQ</h4>
+      <details><summary>How fast is delivery?</summary><p>This is a demo, but the UI simulates a 10-minute express slot.</p></details>
+      <details><summary>Which coupons work?</summary><p>Try FIRST50, SAVE10 or FREEDEL.</p></details>
+      <details><summary>Is my data stored?</summary><p>Only in your own browser (localStorage). Nothing leaves your device.</p></details>
+    </div>
+  </div>
+  <p class="copy">© 2026 Zapcart demo. Emoji art, original branding.</p>
+</footer>
+
+<nav class="bnav" aria-label="Primary">
+  <a href="#/" data-nav="home">🏠<span>Home</span></a>
+  <a href="#/categories" data-nav="categories">🗂️<span>Categories</span></a>
+  <a href="#/search" data-nav="search">🔍<span>Search</span></a>
+  <button id="bnavCart" data-nav="cart">🛒<span>Cart</span><b id="bnavCnt" class="cnt">0</b></button>
+</nav>
+
+<div id="overlay" hidden></div>
+<aside id="cart" class="drawer" aria-label="Shopping cart" aria-hidden="true"></aside>
+<div id="modal" class="modal" role="dialog" aria-modal="true" hidden></div>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script src="data/products.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+[
+ {
+  "id": "fruits-veg",
+  "name": "Fruits & Veggies",
+  "emoji": "🥬",
+  "bg": "#dcfce7"
+ },
+ {
+  "id": "dairy",
+  "name": "Dairy & Bread",
+  "emoji": "🥛",
+  "bg": "#e0f2fe"
+ },
+ {
+  "id": "snacks",
+  "name": "Snacks & Munchies",
+  "emoji": "🍿",
+  "bg": "#fef3c7"
+ },
+ {
+  "id": "beverages",
+  "name": "Beverages",
+  "emoji": "🥤",
+  "bg": "#ffedd5"
+ },
+ {
+  "id": "staples",
+  "name": "Atta, Rice & Dal",
+  "emoji": "🌾",
+  "bg": "#fef9c3"
+ },
+ {
+  "id": "personal-care",
+  "name": "Personal Care",
+  "emoji": "🧴",
+  "bg": "#fce7f3"
+ },
+ {
+  "id": "cleaning",
+  "name": "Cleaning Essentials",
+  "emoji": "🧽",
+  "bg": "#ccfbf1"
+ },
+ {
+  "id": "baby",
+  "name": "Baby Care",
+  "emoji": "🍼",
+  "bg": "#ede9fe"
+ },
+ {
+  "id": "pet",
+  "name": "Pet Care",
+  "emoji": "🐶",
+  "bg": "#fee2e2"
+ }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Zapcart – Groceries in 10 minutes",
+  "short_name": "Zapcart",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffc800",
+  "theme_color": "#ffc800",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
